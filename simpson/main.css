@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+img{
+    border: 10px solid black;
+    width: 400px;
+}
+.description{
+    background: grey;
+    text-align: justify;
+}
