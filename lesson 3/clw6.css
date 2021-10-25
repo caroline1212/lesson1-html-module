@@ -1,0 +1,43 @@
+.container{
+    width: 700px;
+    border: 5px solid grey;
+    padding: 5px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    column-gap: 20px;
+}
+.d-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.home{
+    width: 50%;
+    height: 400px;
+    background: #77dc77;
+}
+.about{
+    width: 50%;
+    background: #b74e05;
+    height: 400px;
+}
+.middle{
+    height: 250px;
+    background: #deab89;
+    margin-top: 20px;
+}
+.content{
+    display: flex;
+    column-gap: 10px;
+    margin-top: 20px;
+}
+.item{
+    width: 33.33%;
+    height: 300px;
+    background: #91857d;
+}
