@@ -1,0 +1,77 @@
+.target {
+    width: 1000px;
+    height: 670px;
+    background: #95b095;
+    padding: 10px;
+}
+.polo {
+    width: 995px;
+    height: 200px;
+    background: grey;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.ball {
+    width: 800px;
+    height: 200px;
+    background: grey;
+    margin-top: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.soon {
+    display: flex;
+    margin-top: 10px;
+}
+.bang {
+    width: 260px;
+    height: 250px;
+    background: grey;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.bong{
+    width: 260px;
+    height: 250px;
+    background: grey;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    font-size: 30px;
+}
+.bing{
+    width: 260px;
+    height: 250px;
+    background: grey;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    font-size: 30px;
+}
+.rain{
+    width: 183px;
+    height: 460px;
+    background: grey;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 30px;
+}
+.fire{ display: flex;
+}
