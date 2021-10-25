@@ -1,0 +1,51 @@
+.main{
+    width: 1200px;
+    height: 1160px;
+    background: #b0adad;
+    margin: 20px;
+    padding: 10px;
+
+}
+.mono{
+    width: auto;
+    height: 200px;
+    background: #d5bba7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    font-size: 30px;
+    margin: 20px;
+}
+.polo{
+    width: 200px;
+    height: 650px;
+    background: #b74e05;
+    margin: 20px;
+    border-radius: 20px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.post{
+    width: 950px;
+    height: 300px;
+    background: #c5c550;
+    border-radius: 20px;
+    font-size: 30px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rare{
+    display: flex;
+}
+.soft{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
