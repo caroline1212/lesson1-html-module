@@ -1,0 +1,34 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.point{
+    width: 900px;
+    height: 1000px;
+    background: #2f2f1e;
+    padding: 10px;
+}
+.polo{
+    width: 895px;
+    height: 200px;
+    background: #5a755a;
+}
+.fire{
+    width: 895px;
+    height: 100px;
+    background: #77dc77;
+}
+.target{
+    width: 600px;
+    height: 600px;
+    background: #a68369;
+}
+.loft{
+    width: 295px;
+    height: 600px;
+    background: #8a5e40;
+}
+.ball{
+    display: flex;}

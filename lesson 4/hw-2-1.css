@@ -1,0 +1,50 @@
+#header{
+    width: auto;
+    height: 200px;
+    background: #d5bba7;
+}
+#footer{
+    width: auto;
+    height: 200px;
+    background: #d5bba7;
+}
+#menu{
+    width: 200px;
+    height: 650px;
+    background: #b74e05;
+}
+.main{
+    width: 1200px;
+    height: 1160px;
+    background: #b0adad;
+    margin: 20px;
+    padding: 10px;
+}
+.polo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    font-size: 30px;
+    border-radius: 20px;
+}
+.post{
+    width: 950px;
+    height: 300px;
+    background: #c5c550;
+    border-radius: 20px;
+    font-size: 30px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rare{
+    display: flex;
+}
+.soft{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}

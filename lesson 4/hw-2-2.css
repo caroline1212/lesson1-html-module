@@ -1,0 +1,29 @@
+.main{
+    width: 800px;
+    height: 960px;
+    background: gray;
+    padding: 10px;
+}
+.cola{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    font-size: 30px;
+}
+.solo{
+    width: 760px;
+    height: 300px;
+    background: cornflowerblue;
+}
+.point{
+    display: flex;
+}
+.polo{
+    width: 240px;
+    height: 240px;
+    background: #deab89;
+}
+.polo:nth-child(odd){
+    background: red;
+}

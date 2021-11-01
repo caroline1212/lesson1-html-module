@@ -1,0 +1,35 @@
+.main{
+    border-radius: 20px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ball{
+    margin-top: 20px;
+    height: 680px;
+}
+.polo {
+    width: auto;
+    height: 1100px;
+    background: #121515;
+    padding: 20px;
+    margin: 10px;
+}
+.point {
+    width: 2320px;
+    height: 400px;
+    background: #d5bba7;
+}
+.diva {
+    width: 1700px;
+    background: #91857d;
+}
+.mono {
+    width: 600px;
+    background: #e1b99e;
+    margin-left: 20px;
+}
+.BC {
+    display: flex;
+}
